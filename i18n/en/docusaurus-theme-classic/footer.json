@@ -1,0 +1,38 @@
+{
+  "link.title.学习": {
+    "message": "Study",
+    "description": "The title of the footer links column with title=学习 in the footer"
+  },
+  "link.title.社交媒体": {
+    "message": "Social Media",
+    "description": "The title of the footer links column with title=社交媒体 in the footer"
+  },
+  "link.title.更多": {
+    "message": "More",
+    "description": "The title of the footer links column with title=更多 in the footer"
+  },
+  "link.item.label.博客": {
+    "message": "Blogs",
+    "description": "The label of footer link with label=博客 linking to tags"
+  },
+  "link.item.label.归档": {
+    "message": "Archive",
+    "description": "The label of footer link with label=归档 linking to archive"
+  },
+  "link.item.label.项目": {
+    "message": "Projects",
+    "description": "The label of footer link with label=项目 linking to project"
+  },
+  "link.item.label.关于我": {
+    "message": "About Me",
+    "description": "The label of footer link with label=关于我 linking to /about"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/Yang0107-liyyy"
+  },
+  "copyright": {
+    "message": "<p>Copyright © PRESENT Lillian Built with Docusaurus.</p>",
+    "description": "The footer copyright"
+  }
+}
