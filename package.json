@@ -10,7 +10,7 @@
     "url": "https://github.com/Yang0107-liyyy/blog",
     "type": "git"
   },
-  "homepage": "https://Lillian.me",
+  "homepage": "https://blog-lillian.vercel.app",
   "license": "MIT",
   "scripts": {
     "docusaurus": "docusaurus",

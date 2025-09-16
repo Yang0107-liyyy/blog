@@ -9,7 +9,7 @@
   "related_applications": [
     {
       "platform": "webapp",
-      "url": "https://Lillian.me/manifest.json"
+      "url": "https://blog-lillian.vercel.app/manifest.json"
     }
   ],
   "icons": [

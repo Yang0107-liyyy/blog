@@ -7,7 +7,7 @@ import type { GiscusConfig } from './src/components/Comment'
 
 const config: Config = {
   title: 'Lillian',
-  url: 'https://Lillian.me',//待修改
+  url: 'https://blog-lillian.vercel.app',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'Lillian',

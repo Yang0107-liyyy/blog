@@ -3,7 +3,7 @@ export const projects: Project[] = [
     title: 'Lillian的个人博客',
     description: '✨基于 Docusaurus 静态网站生成器实现个人博客',
     preview: '/img/project/blog.png',
-    website: ' ',
+    website: 'https://blog-lillian.vercel.app',
     source: 'https://github.com/Yang0107-liyyy/blog',
     tags: ['design', 'favorite', 'personal'],
     type: 'web',
