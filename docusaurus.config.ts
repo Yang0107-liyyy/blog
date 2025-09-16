@@ -105,10 +105,10 @@ const config: Config = {
     },
 
     giscus: {// 待修改
-      repo: 'Lillian/blog',
-      repoId: ' ',
+      repo: 'Yang0107-liyyy/blog',
+      repoId: 'R_kgDOPwLX7Q',
       category: 'General',
-      categoryId: ' ',
+      categoryId: 'DIC_kwDOPwLX7c4CvdiR',
       theme: 'light',
       darkTheme: 'dark_dimmed',
     } satisfies Partial<GiscusConfig>,
