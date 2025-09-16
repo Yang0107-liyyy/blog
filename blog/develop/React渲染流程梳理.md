@@ -5,7 +5,7 @@ date: 2024-11-10
 authors: Lillian
 tags: [React,梳理]
 keywords: [develop,render]
-image: https://iconfont.alicdn.com/p/illus/preview_image/oPbI8oV1g8uB/4731734d-a317-41db-b888-6340b96fcbe4.png
+image: /img/blog/image/react-render.png
 ---
 
 React 整体的渲染流程可以分为两大阶段，分别是 render 阶段和 commit 阶段。

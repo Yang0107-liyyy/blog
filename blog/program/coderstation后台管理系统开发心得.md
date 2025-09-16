@@ -5,7 +5,7 @@ date: 2025-3-20
 authors: Lillian
 tags: [UmiJS,心得]
 keywords: [program,background]
-image: https://iconfont.alicdn.com/p/illus/preview_image/oPbI8oV1g8uB/242f2b35-9aa8-4466-a9f1-dcc7bb1f92db.png
+image: /img/blog/image/cs-bg.png
 ---
 
 这段时间，我用 React 技术栈做了一个完整的项目。整体框架采用了 [UmiJS 4.x](https://umijs.org/)，路由用了 [react-router](https://reactrouter.com/api/components/Route)，数据流则选择了基于 redux 和 redux-saga 的 [dva](https://umijs.org/docs/max/dva)，在 UI 层面上，我直接用上了 [Ant Design Pro](https://procomponents.ant.design/) 这一整合方案。算下来，这是一套相对完整、工程化程度很高的前端技术栈。开发下来，我有一些心得和体会，想在这里做个小结。

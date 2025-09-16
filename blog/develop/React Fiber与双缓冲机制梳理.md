@@ -5,7 +5,7 @@ date: 2024-12-1
 authors: Lillian
 tags: [React,Fiber,梳理]
 keywords: [develop,fiber]
-image: https://iconfont.alicdn.com/p/illus/preview_image/eZQFvSX6g8f1/cc39e15f-1afb-497e-91d4-e55f632bb9fa.png
+image: /img/blog/image/fiber.png
 ---
 
 在 React 中，Fiber 是核心架构之一。理解 Fiber 以及其双缓冲机制，对于掌握 React 的底层运行原理非常重要。

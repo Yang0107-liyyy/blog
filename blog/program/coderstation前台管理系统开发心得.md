@@ -5,7 +5,7 @@ date: 2025-1-11
 authors: Lillian
 tags: [React,心得]
 keywords: [program, front]
-image: https://iconfont.alicdn.com/p/illus/preview_image/MNGY2AoHRGKm/785b704d-90f9-4b71-905d-143dba9ed9dc.png
+image: /img/blog/image/cs-front.png
 ---
 
 最近完成了一个小项目，整个过程让我收获颇多。最初的想法其实很简单：我想通过这个项目，把之前学到的一些前端知识真正用起来。相比于看教程，项目更能暴露出自己不足的地方，也更能让我感受到学习成果的落地。
