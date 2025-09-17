@@ -80,7 +80,7 @@ const config: Config = {
       copyright: `<p>Copyright © ${new Date().getFullYear()} Lillian. | Built with Docusaurus.</p>`,
     },
 
-    algolia: {//待修改
+    algolia: {
       appId: '89FWMM9HJO',
       apiKey: 'b5bb639ed2131cbbb53a5c49b5a73fdb',
       indexName: 'Lillian',
@@ -104,11 +104,11 @@ const config: Config = {
       ],
     },
 
-    giscus: {// 待修改
+    giscus: {
       repo: 'Yang0107-liyyy/blog',
-      repoId: 'R_kgDOPwLX7Q',
+      repoId: 'R_kgDOPwq9EQ',
       category: 'General',
-      categoryId: 'DIC_kwDOPwLX7c4CvdiR',
+      categoryId: 'DIC_kwDOPwq9Ec4Cvfhh',
       theme: 'light',
       darkTheme: 'dark_dimmed',
     } satisfies Partial<GiscusConfig>,
