@@ -145,7 +145,7 @@ const config: Config = {
           priority: 0.5,
         },
         gtag: {
-          trackingID: ' ',// 待修改，在Google Analytics页面找到对应ID
+          trackingID: 'G-EBPRY53LFN',
           anonymizeIP: true,
         },
         debug: process.env.NODE_ENV === 'development',
