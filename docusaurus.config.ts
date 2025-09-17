@@ -81,8 +81,8 @@ const config: Config = {
     },
 
     algolia: {//待修改
-      appId: ' ',
-      apiKey: ' ',
+      appId: '89FWMM9HJO',
+      apiKey: 'b5bb639ed2131cbbb53a5c49b5a73fdb',
       indexName: 'Lillian',
     },
 
