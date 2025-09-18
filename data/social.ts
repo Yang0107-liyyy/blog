@@ -27,7 +27,7 @@ const socialSet: Record<keyof Social, SocialValue> = {
     title: '邮箱',
     icon: 'ri:mail-line',
     color: '#38a5d4ff',
-  }
+  },
 }
 
 export default socialSet
