@@ -4,7 +4,6 @@ import { themes } from 'prism-react-renderer'
 import social from './data/social'
 import type { GiscusConfig } from './src/components/Comment'
 
-
 const config: Config = {
   title: 'Lillian',
   url: 'https://blog-lillian.vercel.app',
@@ -54,14 +53,14 @@ const config: Config = {
           items: [
             { label: '博客', to: 'blog' },
             { label: '归档', to: 'blog/archive' },
-            { label: '项目', to: 'project' }
+            { label: '项目', to: 'project' },
           ],
         },
         {
           title: '社交媒体',
           items: [
             { label: '关于我', to: '/about' },
-            { label: 'GitHub', href: social.github.href }
+            { label: 'GitHub', href: social.github.href },
           ],
         },
         {

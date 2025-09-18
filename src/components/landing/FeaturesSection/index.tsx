@@ -4,7 +4,6 @@ import { cn } from '@site/src/lib/utils'
 import { BentoGrid, BentoGridItem } from '../../magicui/bento-grid'
 import { Section } from '../Section'
 
-
 export default function FeaturesSection() {
   return (
     <Section title={<Translate id="homepage.feature.title">个人特点</Translate>} icon="ri:map-pin-user-line">

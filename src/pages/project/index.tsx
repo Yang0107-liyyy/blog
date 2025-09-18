@@ -20,7 +20,6 @@ const DESCRIPTION = translate({
   message: '学而知之，行而明之。作品是学习成果最有力的证明。',
 })
 
-
 type ProjectState = {
   scrollTopPosition: number
   focusedElementId: string | undefined
