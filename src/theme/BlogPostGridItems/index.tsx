@@ -74,16 +74,15 @@ export default function BlogPostGridItems({ items }: BlogPostItemsProps): JSX.El
                         />
                       </svg>
                       {item.tags.slice(0, 2).map(({ label, permalink: tagPermalink, description }, index) => (
-                        <>
+                        <span key={tagPermalink} className="inline-flex items-center">
                           {index !== 0 && '/'}
                           <Tag
                             label={label}
                             description={description}
                             permalink={tagPermalink}
-                            key={tagPermalink}
                             className="tag"
                           />
-                        </>
+                        </span>
                       ))}
                     </>
                   )}

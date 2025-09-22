@@ -2,7 +2,7 @@ import type * as Preset from '@docusaurus/preset-classic'
 import type { Config } from '@docusaurus/types'
 import { themes } from 'prism-react-renderer'
 import social from './data/social'
-import type { GiscusConfig } from './src/components/Comment'
+// import type { GiscusConfig } from './src/components/Comment'
 
 const config: Config = {
   title: 'Lillian',
@@ -103,14 +103,14 @@ const config: Config = {
       ],
     },
 
-    giscus: {
-      repo: 'Yang0107-liyyy/blog',
-      repoId: 'R_kgDOPwq9EQ',
-      category: 'General',
-      categoryId: 'DIC_kwDOPwq9Ec4Cvfhh',
-      theme: 'light',
-      darkTheme: 'dark_dimmed',
-    } satisfies Partial<GiscusConfig>,
+    // giscus: {
+    //   repo: 'Yang0107-liyyy/blog',
+    //   repoId: 'R_kgDOPwq9EQ',
+    //   category: 'General',
+    //   categoryId: 'DIC_kwDOPwq9Ec4Cvfhh',
+    //   theme: 'light',
+    //   darkTheme: 'dark_dimmed',
+    // } satisfies Partial<GiscusConfig>,
 
     tableOfContents: {
       minHeadingLevel: 2,
