@@ -297,9 +297,9 @@ useEffect(() => {
 
 ## 成果展示
 
-![切换房间](../../static/img/blog/image/VR1.gif)
+![切换房间](../../static/img/blog/VR1.gif)
 
-![提示框](../../static/img/blog/image/VR2.gif)
+![提示框](../../static/img/blog/VR2.gif)
 
 目前实现的功能：
 
