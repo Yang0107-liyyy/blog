@@ -26,6 +26,15 @@ export const projects: Project[] = [
     tags: ['personal'],
     type: 'web',
   },
+  {
+    title: 'VR 看房',
+    description: '基于 React + Three.js 实现的一个 VR 看房项目',
+    preview: '/img/project/VR-house.png',
+    website: 'https://vr-house-one.vercel.app/',
+    source: 'https://github.com/Yang0107-liyyy/vr-house',
+    tags: ['personal'],
+    type: 'web',
+  },
 ]
 
 export type Tag = {
